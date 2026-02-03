@@ -16,7 +16,8 @@ Termux QEMU Pro Manager (Windows Edition)
 
 برای نصب و اجرای مستقیم اسکریپت، دستور زیر را در ترموکس کپی کنید:
 
-pkg update && pkg install git -y && git clone [https://github.com/amirmasoud15/Qemu.git](https://github.com/amirmasoud15/Qemu.git) && cd Qemu && chmod +x install_qemu_graphics.sh && ./install_qemu_graphics.sh
+pkg update && pkg install git -y 
+git clone [https://github.com/amirmasoud15/Qemu.git](https://github.com/amirmasoud15/Qemu.git) && cd Qemu && chmod +x install_qemu_graphics.sh && ./install_qemu_graphics.sh
 
 
 پیش‌نیازها
